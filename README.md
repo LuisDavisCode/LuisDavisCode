@@ -1,9 +1,9 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Estudante apaixonado por programação de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no CEUNSP.
-- 💼 Estudante de programação BackEnd.
-- 🌱 Aprendendo mais sobre Java.
+- 🌱 Estudante de programação BackEnd.
+- ☕ Aprendendo mais sobre Java.
 
 ## Minhas Skills
 
