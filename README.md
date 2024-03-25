@@ -25,4 +25,4 @@
 
 ## Onde me encontrar
 
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/LuisDavisCode)
+[![GitHub](https://img.shields.io/github/followers/LuisDavisCode?label=follow&style=social)](https://github.com/LuisDavisCode)
