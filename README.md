@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,angular,spring,postman,hibernate,maven" />
+    <img src="https://skillicons.dev/icons?i=java,angular,spring,postman,hibernate,maven,mysql,heroku" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,git,github" />
   </a>
 </p>
 
