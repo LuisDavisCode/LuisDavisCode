@@ -8,17 +8,20 @@
 ## Minhas Skills
 
 **Aplicações e dados**
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,angular,spring,postman,hibernate,maven,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,angular,spring,postman,hibernate,maven" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=java,angular,spring,postman,hibernate,maven)](https://skillicons.dev)
 
 **Ferramentas de desenvolvimento**
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github" />
+  </a>
+</p>
 
 <br/>
 
