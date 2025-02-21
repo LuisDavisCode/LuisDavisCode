@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,postman,hibernate,maven,mysql,aws,heroku" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,npm,postman,hibernate,maven,mysql,aws,heroku" />
   </a>
 </p>
 
