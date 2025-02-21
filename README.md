@@ -10,7 +10,7 @@
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Java]([https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png))
+![Java]([https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396])
 
 **Ferramentas de desenvolvimento**
 
