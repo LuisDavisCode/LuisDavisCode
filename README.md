@@ -2,20 +2,22 @@
 
 - 🤔 Estudante apaixonado por programação de software.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no CEUNSP.
-- 🌱 Estudante de programação BackEnd.
+- 🌱 Estudante de programação FullStack Java.
 - ☕ Aprendendo mais sobre Java.
 
 ## Minhas Skills
 
 **Aplicações e dados**
-
-[![My Skills](https://skillicons.dev/icons?i=java,angular,spring,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,angular,spring,postman,hibernate,maven,git,github" />
+  </a>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=java,angular,spring,postman,hibernate,maven)](https://skillicons.dev)
 
 **Ferramentas de desenvolvimento**
 
-![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)](https://skillicons.dev)
 
 
 <br/>
