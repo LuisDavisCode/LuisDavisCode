@@ -9,8 +9,7 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Java]([https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396])
+[![My Skills](https://skillicons.dev/icons?i=java,angular,spring,wasm)](https://skillicons.dev)
 
 **Ferramentas de desenvolvimento**
 
