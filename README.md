@@ -2,7 +2,7 @@
 
 - 🤔 Passionate software development student.
 - 🎓 Graduating in System Analysis and Development at CEUNSP.
-- 🌱 Java Fullstack programming student.
+- 🌱 Java Backend programming student.
 - ☕ Learning more about java.
 
 ## My Skills
